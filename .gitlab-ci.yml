@@ -1,0 +1,9 @@
+stages:
+    - build
+before_script:
+  - echo "starting build for %PROJECT_NAME%"
+  - echo "Restoring NuGet Packages..."
+  - 'C:\Nuget\nuget.exe restore Airport.sln'
+job:
+    stage: build
+    script: '"C:\Program Files (x86)\MSBuild\14.0\Bin\MSBuild.exe" "Airport.sln"'

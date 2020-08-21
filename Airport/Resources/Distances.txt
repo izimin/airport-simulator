@@ -1,0 +1,10 @@
+Groznyj Åkaterinburg 2608
+Groznyj Sochi 8836
+Moscow Perm 1442
+Perm Omsk 1099
+Perm Samara 1624
+Perm Peterburg 3351
+Moscow Peterburg 2494
+Perm Sochi 6612
+Sochi Moscow 4760
+Åkaterinburg Peterburg 4771
